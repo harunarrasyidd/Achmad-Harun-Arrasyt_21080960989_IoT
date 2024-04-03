@@ -1,0 +1,3 @@
+SMART HOME Membuka Garasi Otomatis
+
+Dari kode program dapat mendeteksi pintu garasi kemudian terbuka dan lampu akan menyala secara otomatis. kondisi tersebut sudah disetting pada condition pada client PC. 
